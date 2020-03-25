@@ -1,5 +1,6 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "^6.5"
+        "guzzlehttp/guzzle": "^6.5",
+        "league/flysystem": "^1.0"
     }
 }
